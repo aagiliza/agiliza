@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>João e suas Aventuras</title>
+    <style>
+        body {
+            background-color: #8BC34A; /* Verde estilo bloco de grama */
+            color: #3E2723; /* Marrom terra */
+            font-family: 'Courier New', Courier, monospace;
+            text-align: center;
+            padding: 50px;
+            margin: 0;
+        }
+        .container {
+            background-color: rgba(255, 255, 255, 0.95);
+            padding: 40px;
+            border: 6px solid #3E2723;
+            max-width: 600px;
+            margin: 0 auto;
+            box-shadow: 8px 8px 0px #3E2723;
+        }
+        h1 { font-size: 2.5em; text-transform: uppercase; }
+        p { font-size: 1.2em; line-height: 1.5; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>João e suas Aventuras</h1>
+        <p>Em breve: descubra um mundo de blocos, exploração e muita diversão!</p>
+        <p>Acompanhe o lançamento oficial desta nova história.</p>
+    </div>
+</body>
+</html> 
